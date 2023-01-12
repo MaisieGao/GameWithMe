@@ -2,6 +2,44 @@
 
 CS5520-Fall 2022-Final Project
 
+## Screenshots
+### Sign-in
+
+![Sign-in](screenshots/Signin.png)
+
+### Sign-up
+
+![Sign-up](screenshots/Signup.png)
+
+### Home
+
+![Home](screenshots/Home.png)
+
+### CreateNewGame
+
+![CreateNewGame](screenshots/CreateNewGame.png)
+
+### Choose location
+
+![LocationPicker](screenshots/location.png)
+
+### GameDetail
+
+![GameDetail](screenshots/GameDetail.png)
+
+### UserProfile
+
+![UserProfile](screenshots/UserProfile.png)
+
+### EditUserProfile
+
+![EditUserProfile](screenshots/EditUserProfile.png)
+
+### Notification
+
+![Notification](screenshots/Notification.png)
+
+
 ## Team members
 
 - Shuyue Gao (MaisieGao)
@@ -194,43 +232,4 @@ to TA: we allow emergency bugfixes and trivial changes(README.md) directly pushe
 
 ## Youtube Link
 https://www.youtube.com/watch?v=7ePzGjD3pNc
-
-## Screenshots
-### Sign-in
-
-![Sign-in](screenshots/Signin.png)
-
-### Sign-up
-
-![Sign-up](screenshots/Signup.png)
-
-### Home
-
-![Home](screenshots/Home.png)
-
-### CreateNewGame
-
-![CreateNewGame](screenshots/CreateNewGame.png)
-
-### Choose location
-
-![LocationPicker](screenshots/location.png)
-
-### GameDetail
-
-![GameDetail](screenshots/GameDetail.png)
-
-### UserProfile
-
-![UserProfile](screenshots/UserProfile.png)
-
-### EditUserProfile
-
-![EditUserProfile](screenshots/EditUserProfile.png)
-
-### Notification
-
-![Notification](screenshots/Notification.png)
-
-
 
